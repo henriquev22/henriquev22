@@ -1,4 +1,4 @@
-###👋 Hi, I’m José Henrique 
+👋 Hi, I’m José Henrique 
 
 <!---
 henriquev22/henriquev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
