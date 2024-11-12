@@ -9,7 +9,7 @@
 
 ### Projetos em Destaque
 - [Projeto Mapa COP30](https://github.com/seu-usuario/mapa-cop-30): Aplicativo de mapa interativo para a COP 30, com pontos de coleta, eventos e turismo em Belém do Pará.
-- [Lista de Chamada Online](https://github.com/seu-usuario/lista-de-chamada): Ferramenta de lista de chamada online e carteirinha virtual para escolas.
+- [Marketplace](https://github.com/henriquev22/projeto-cop30): Marketplace em Python.
 
 ### Contato
 - [LinkedIn](www.linkedin.com/in/josé-vale-4842181b2)
