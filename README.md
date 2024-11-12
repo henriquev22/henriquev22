@@ -8,7 +8,7 @@
 - 💼 Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ### Projetos em Destaque
-- [Projeto Mapa COP30](https://github.com/seu-usuario/mapa-cop-30): Aplicativo de mapa interativo para a COP 30, com pontos de coleta, eventos e turismo em Belém do Pará.
+- [Projeto Mapa COP30](https://github.com/henriquev22/mapabelem): Aplicativo de mapa interativo para a COP 30, com pontos de coleta, eventos e turismo em Belém do Pará.
 - [Marketplace](https://github.com/henriquev22/projeto-cop30): Marketplace em Python.
 
 ### Contato
