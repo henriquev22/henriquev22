@@ -1,7 +1,8 @@
 # Bem-vindo ao meu perfil! 👋
 
 ### Descrição
-Olá! Me chamo José Henrique, desenvolvedor focado em **desenvolvimento web** e **aplicativos móveis**. Apaixonado por aprender novas tecnologias e resolver problemas de forma criativa. 
+| ![image](https://github.com/user-attachments/assets/b417f014-d701-4715-95d3-25981d2c7d73) | **Olá!** Me chamo José Henrique, desenvolvedor focado em **desenvolvimento web** e **aplicativos móveis**. Apaixonado por aprender novas tecnologias e resolver problemas de forma criativa. |
+|---|---| 
 
 ### Sobre Mim
 - 💼 Estudante de **Análise e Desenvolvimento de Sistemas**.
@@ -12,7 +13,3 @@ Olá! Me chamo José Henrique, desenvolvedor focado em **desenvolvimento web** e
 
 ### Contato
 - [LinkedIn](www.linkedin.com/in/josé-vale-4842181b2)
-
-### Imagem de Destaque
-![image](https://github.com/user-attachments/assets/b417f014-d701-4715-95d3-25981d2c7d73)
-
