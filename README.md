@@ -14,4 +14,5 @@ Olá! Me chamo José Henrique, desenvolvedor focado em **desenvolvimento web** e
 - [LinkedIn](www.linkedin.com/in/josé-vale-4842181b2)
 
 ### Imagem de Destaque
-![Imagem deadpool]((https://github.com/user-attachments/assets/7e84c9fd-a872-4c40-8c20-efa10fdb064d))
+![image](https://github.com/user-attachments/assets/b417f014-d701-4715-95d3-25981d2c7d73)
+
