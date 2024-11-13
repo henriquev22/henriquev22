@@ -12,5 +12,5 @@
 - [Marketplace](https://github.com/henriquev22/projeto-cop30): Marketplace em Python.
 
 ### Contato
-- [LinkedIn](www.linkedin.com/in/josé-vale-4842181b2)
+- LinkedIn: (www.linkedin.com/in/josé-vale-4842181b2)
 - Email: josehenrique17@hotmail.com
