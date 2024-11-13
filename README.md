@@ -13,4 +13,4 @@
 
 ### Contato
 - [LinkedIn](www.linkedin.com/in/josé-vale-4842181b2)
-- (Email) josehenrique17@hotmail.com
+- Email: josehenrique17@hotmail.com
